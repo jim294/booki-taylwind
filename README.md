@@ -1,4 +1,7 @@
-# Booki
+# Booki TAYLWIND
+
+LA VERSION CSS AVEC TAYLWIND !!!!!!
+
 ### OpenClassrooms P3 - Création de la page d'accueil d'une agence de voyage avec HTML & CSS
 
 **Booki** est un **site Internet** qui permet aux usagers de **trouver des hébergements** et des activités dans la ville de leur choix.
